@@ -1,5 +1,5 @@
 # C-Programming
-A repository of bunch of C projects such as RLE String Compression, LinkedLists, Binary Search Trees, etc.
+A repository of C projects such as RLE String Compression, LinkedLists, Binary Search Trees, etc.
 
 1. BST: Allows for various functionalities with a Binary Search Tree structure:
 --> Insertion: Insert an integer value into the BST (Inserted in a sorted arragnement).
